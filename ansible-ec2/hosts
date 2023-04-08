@@ -1,0 +1,3 @@
+[app]
+
+<public IP Address> ansible_user=ubuntu
